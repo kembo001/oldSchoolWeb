@@ -1,0 +1,49 @@
+body{
+    /* background-color: #c8a3dd; */
+}
+h2{
+    color: yellow;
+    font-weight: bold;
+    float: right;
+}
+p{
+    /* float: right; */
+    color: #fff;
+}
+.youtubevid{
+    float: right;
+    margin-left: 25%;
+}
+.utubeH2{
+    margin-left: 1%;
+}
+.partylogo{
+    margin-top: 50%;
+}
+.spinningstar{
+    height: 20px
+}
+a:hover{
+    color: red;
+}
+a{
+    color: #fff;
+}
+ul{
+    color: #fff;
+}
+.me{
+    width: 50%;
+    float: left;
+}
+.aboutMeLi{
+    list-style-type: none;
+    font-size: 25px;
+    margin-left: 50%;
+}
+.aboutMe{
+    background-color: black;
+}
+.adGif{
+    width: 50%
+}
